@@ -17,7 +17,9 @@
 - 💬 Ask me about anything and we will try to have a good chat with a great exchange of knowledge.
 - 📫 How to reach me: [tmanavmehta@gmail.com](mailto://tmanavmehta@gmail.com) or DM me on [LinkedIn](https://www.linkedin.com/in/mmanavmehta/).
 
+<!--
 <br><br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=manavmehta&show_icons=true&theme=radical">
 </div>
+-->
