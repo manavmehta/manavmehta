@@ -9,7 +9,7 @@
 </a>
 <br><br>
 
-- 🔭 I’ve worked on various projects including [Zulip Desktop](https://github.com/zulip/zulip-desktop/).
+- 🔭 I’ve worked on various projects including [Zulip Desktop](https://github.com/zulip/zulip-desktop/) during Google Summer of Code 2020.
 - 💬 Ask me about anything and we will try to have a good chat with a great exchange of knowledge.
 - 📫 How to reach me: [tmanavmehta@gmail.com](mailto://tmanavmehta@gmail.com) or DM me on [LinkedIn](https://www.linkedin.com/in/mmanavmehta/).
 
