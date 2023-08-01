@@ -1,5 +1,7 @@
 # 💫 Hello Visitor:
-- 🔭 I’ve worked on various projects including [Zulip Desktop](https://github.com/zulip/zulip-desktop/) during Google Summer of Code 2020.<br>- 💬 Lets have random chats, from code to finance, business potentials, memes, conspiracy theories and, ofcourse, Music ❤️.<br>- 📫 How to reach me: [tmanavmehta@gmail.com](mailto://tmanavmehta@gmail.com) or DM me on [LinkedIn](https://www.linkedin.com/in/mmanavmehta/).<br>
+- 🔭 I’m a Software Engineer at Kotak Mahindra Corporate, and I have previously worked at [LambdaTest](https://github.com/LambdaTest) as a backend developer on Golang and NodeJS, and previous to that on various projects including [Zulip Desktop](https://github.com/zulip/zulip-desktop/) during Google Summer of Code 2020.<br>
+- 💬 Up for new ventures, potential business ideas, side hustles, insightful chats, from code to finance, and ofcourse, Music ❤️.<br>
+- 📫 Ping me: [tmanavmehta@gmail.com](mailto://tmanavmehta@gmail.com) or DM me on [LinkedIn](https://www.linkedin.com/in/mmanavmehta/).<br>
 
 
 ## 🌐 Socials:
