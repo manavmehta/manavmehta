@@ -1,5 +1,5 @@
 # 💫 Hello Visitor:
-- 🔭 I’m a Software Engineer at Kotak Mahindra Corporate, and I have previously worked at [LambdaTest](https://github.com/LambdaTest) as a backend developer on Golang and NodeJS, and previous to that on various projects including [Zulip Desktop](https://github.com/zulip/zulip-desktop/) during Google Summer of Code 2020.<br>
+- 🔭 I’m a Software Engineer at Kotak Mahindra Bank Transactions team, and I have previously worked at [LambdaTest](https://github.com/LambdaTest) as a backend developer on Golang and NodeJS, and previous to that on various projects including [Zulip Desktop](https://github.com/zulip/zulip-desktop/) during Google Summer of Code 2020.<br>
 - 💬 Up for new ventures, potential business ideas, side hustles, insightful chats, from code to finance, and ofcourse, Music ❤️.<br>
 - 📫 Ping me: [tmanavmehta@gmail.com](mailto://tmanavmehta@gmail.com) or DM me on [LinkedIn](https://www.linkedin.com/in/mmanavmehta/).<br>
 
@@ -8,6 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mmanavmehta) 
 
 # 💻 Tech Stack:
+
+[![Java](https://img.shields.io/badge/java-8B4513?style=for-the-badge&logo=Java&logoColor=white)]([https://www.python.org/](https://www.java.com/en/))
 [![Python](https://img.shields.io/badge/python-2070D0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/doc/tutorial/)
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
